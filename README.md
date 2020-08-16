@@ -32,6 +32,7 @@ To retrieve the kubeconfig file, execute:
 ```
 
 ## Setup argo permission to S3
+More references on updating argo configmap [here](https://argoproj.github.io/argo/workflow-controller-configmap/)
 ```
 ./scripts/5_update_argo_s3.sh
 ```
